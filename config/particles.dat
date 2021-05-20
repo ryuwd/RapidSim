@@ -98,6 +98,8 @@ ID		part		anti		mass		width		charge		spin		shape		ctau
 5222		Sigmab+		---		5.8113		0.0097		 1		0.5		RBW		-1.
 5132		Xib-		Xib+		5.7945		0.		-1		0.5		---		0.471
 5232		Xib0		Xib0b		5.7919		0.		 0		0.5		---		0.444
+4314		Xic2645+	Xic2645-	2.64556		0.00214		1		1.5		RBW		-1
+104312	Xic28150	Xic28150b	2.82025		0.00254		0		1.5		RBW		-1
 5332		Omegab-		Omegab+		6.0464		0.		-1		0.5		---		0.492
 100553		Upsilon2S	---		10.02326	0.00003198	 0		1.0		RBW		-1.
 200553		Upsilon3S	---		10.3552		0.00002032	 0		1.0		RBW		-1.

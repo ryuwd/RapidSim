@@ -77,7 +77,7 @@ Double_t RooRelBreitWigner::evaluate() const
 	   return(std::norm(T));
 	 */
 
-	double top = getWidth();
+	double top = x * getWidth();
 	double dm2 = std::pow(x,2) - std::pow(mean,2);
 	double bottom = std::pow(dm2,2) + pow(mean*getWidth(),2);
 	return top/bottom;
